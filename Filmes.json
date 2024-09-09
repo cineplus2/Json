@@ -1,5 +1,7 @@
-  {
-       "player": "https://filemoon.sx/e/22wiujbbtsha/",        "id": 1,
+[
+    {
+        "player": "https://filemoon.sx/e/22wiujbbtsha/",
+        "id": 1,
         "nome": "Missao Condor",
         "capa": "https://image.tmdb.org/t/p/original/dX4zUmTl86s1ao92aKJG1pbrjhO.jpg",
         "categoria": "Acao",
@@ -12,6 +14,7 @@
         "capa": "https://image.tmdb.org/t/p/original/3kkXGyrpA1OzDXl9ubNn8R89YoM.jpg",
         "categoria": "Thriller",
         "idade": 16
+    },
     {
         "player": "https://filemoon.sx/e/bin3iq2y2mai/",
         "id": 4,
