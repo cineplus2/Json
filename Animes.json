@@ -5,7 +5,7 @@
     "capa": "img",
     "data": "2018",
     "nome": "nome",
-    "video": "[{"ep":"01","ep_link":"https://otakuanimesscc.com/playerhls?php=NDE3NTI="},{"ep":"02","ep_link":"https://otakuanimesscc.com/playerhls?php=NDE3NTI="}]"
+    "video": "[{"ep":"01","ep_link":"https://otakuanimesscc.com/playerhls?php=NDE3NTI="},{"ep":"02","ep_link":"https://otakuanimesscc.com/playerhls?php=NDE3NTI="}]",
   },
   {
     "descricao": "rr",
@@ -13,6 +13,6 @@
     "capa": "r",
     "data": "2018",
     "nome": "quer ",
-    "player": "[{"ep":"01","ep_link":"https://otakuanimesscc.com/playerhls?php=NDE3NTI="},{"ep":"02","ep_link":"https://otakuanimesscc.com/playerhls?php=NDE3NTI="}]"
+    "video": "[{"ep":"01","ep_link":"https://otakuanimesscc.com/playerhls?php=NDE3NTI="},{"ep":"02","ep_link":"https://otakuanimesscc.com/playerhls?php=NDE3NTI="}]",
   }
 [
