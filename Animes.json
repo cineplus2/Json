@@ -1,5 +1,5 @@
-{
-  "543": {
+[
+  {
     "descricao": "descr",
     "id": "543",
     "capa": "img",
@@ -7,7 +7,7 @@
     "nome": "nome",
     "video": "[{"ep":"01","ep_link":"https://otakuanimesscc.com/playerhls?php=NDE3NTI="},{"ep":"02","ep_link":"https://otakuanimesscc.com/playerhls?php=NDE3NTI="}]"
   },
-  "827": {
+  {
     "descricao": "rr",
     "key": "827",
     "capa": "r",
@@ -15,4 +15,4 @@
     "nome": "quer ",
     "player": "[{"ep":"01","ep_link":"https://otakuanimesscc.com/playerhls?php=NDE3NTI="},{"ep":"02","ep_link":"https://otakuanimesscc.com/playerhls?php=NDE3NTI="}]"
   }
-}
+[
