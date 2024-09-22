@@ -1,18 +1,18 @@
-[
-    {
-        "player":"01","https://www.blogger.com/video.g?token=AD6v5dzlSSEikjrZVFjyhZYP-V9MD0UkHm_GuV28TMMvanaC1F9b2piooat82oTyCGkJH5Py9ckMFnZ-WJLJbvgLVlqjivoTLcxL4ZF5fQx1NUBLfS1ElkIW-UNNxagcriURRlDvo6M",
-        "id": 212,
-        "nome": "Darling in the Franxx",
-        "capa": "animesonlinecc.to/wp-content/uploads/2019/07/oO5tir7lV4slZHTyhW8lTFrgyif-185x278.jpg",
-        "categoria": "Acao",
-        "idade": 12    
-    },
-    {
-        "player":"01","https://filemoon.sx/e/nsceebc9oj1f/",
-        "id": 616,
-        "nome": "Tracao",
-        "capa": "https://image.tmdb.org/t/p/original/azMQZjuulbfaL8uahlA8cHY3EyJ.jpg",
-        "categoria": "Acao",
-        "idade": 14
-    }
-]
+{
+  "543": {
+    "descricao": "descr",
+    "id": "543",
+    "capa": "img",
+    "data": "2018",
+    "nome": "nome",
+    "video": "[{"ep":"01","ep_link":"https://otakuanimesscc.com/playerhls?php=NDE3NTI="},{"ep":"02","ep_link":"https://otakuanimesscc.com/playerhls?php=NDE3NTI="}]"
+  },
+  "827": {
+    "descricao": "rr",
+    "key": "827",
+    "capa": "r",
+    "data": "2018",
+    "nome": "quer ",
+    "player": "[{"ep":"01","ep_link":"https://otakuanimesscc.com/playerhls?php=NDE3NTI="},{"ep":"02","ep_link":"https://otakuanimesscc.com/playerhls?php=NDE3NTI="}]"
+  }
+}
